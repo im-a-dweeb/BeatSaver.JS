@@ -1,3 +1,6 @@
+const fetch = require('node-fetch');
+
+
 /**
  * Function to fetch map information from the API
  * @param {number} mapID - The ID of the map to fetch (REQUIRED)
